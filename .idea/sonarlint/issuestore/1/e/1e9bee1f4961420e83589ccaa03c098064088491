@@ -1,0 +1,9 @@
+
+esquid:UselessImportCheck";Remove this unused import 'org.apache.logging.log4j.Level'.(±âØl8á¸“˜Å-
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
+Rsquid:S1068"/Remove this unused "txtUserName" private field.(žþ£ëûÿÿÿÿ8á¸“˜Å-
+Msquid:S1068"*Remove this unused "logger" private field.(üÓ—Áúÿÿÿÿ8á¸“˜Å-
+Rsquid:S1068"/Remove this unused "txtPassword" private field.(´©ùºøÿÿÿÿ8á¸“˜Å-
+Ksquid:S1068"-Remove this unused "btnSubmit" private field.(âåîÚ8á¸“˜Å-
+Ysquid:S1068"6Remove this unused "alertLogoutSuccess" private field.(÷ºÔµûÿÿÿÿ8á¸“˜Å-
+Osquid:S1068",Remove this unused "hdrLogin" private field.(«—ã±ÿÿÿÿÿ8á¸“˜Å-

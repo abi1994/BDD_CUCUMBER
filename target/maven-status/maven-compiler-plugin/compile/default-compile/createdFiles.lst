@@ -1,0 +1,8 @@
+com/test/qa/pageobjects/pages/PageBase.class
+com/test/qa/pageobjects/pages/LoginPage.class
+com/test/qa/pageobjects/pages/OrangeHRMDashboardPage.class
+com/test/qa/pageobjects/pages/LoginSecurePage.class
+com/test/qa/pageobjects/stepdefinition/SignIn.class
+com/test/qa/pageobjects/stepdefinition/SignInOrangeHRM.class
+com/test/qa/pageobjects/pages/OrangeHRMLoginPage.class
+com/test/qa/pageobjects/pages/OrangeHRMUserManagementPage.class

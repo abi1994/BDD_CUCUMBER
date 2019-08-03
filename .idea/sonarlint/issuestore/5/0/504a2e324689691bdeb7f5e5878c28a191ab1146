@@ -1,0 +1,8 @@
+
+Hsquid:S1068"*Remove this unused "logger" private field.(èÑ™8™»˜Å-
+esquid:UselessImportCheck";Remove this unused import 'org.apache.logging.log4j.Level'.(±âØl8™»˜Å-
+Msquid:S1068"/Remove this unused "txtUsername" private field.(Ñú¶Ù8™»˜Å-
+Osquid:S1068",Remove this unused "btnLogin" private field.(ì¹ôıÿÿÿÿ8™»˜Å-
+Rsquid:S1068"/Remove this unused "spanMessage" private field.(ùıĞ¿øÿÿÿÿ8™»˜Å-
+Rsquid:S1068"/Remove this unused "txtPassword" private field.(¼İ—Šşÿÿÿÿ8™»˜Å-
+Usquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ8¶û„˜Å-

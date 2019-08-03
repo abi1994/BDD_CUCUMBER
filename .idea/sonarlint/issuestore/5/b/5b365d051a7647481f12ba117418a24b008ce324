@@ -1,0 +1,5 @@
+
+Hsquid:S1068"*Remove this unused "logger" private field.(î¾´«8ñÒ‘˜Å-
+Psquid:S1068"-Remove this unused "lblHeader" private field.(Ü’Ö¬ýÿÿÿÿ8ñÒ‘˜Å-
+esquid:UselessImportCheck";Remove this unused import 'org.apache.logging.log4j.Level'.(±âØl8ñÒ‘˜Å-
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ

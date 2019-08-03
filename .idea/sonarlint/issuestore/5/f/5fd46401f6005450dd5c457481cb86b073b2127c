@@ -1,0 +1,26 @@
+
+_squid:UselessImportCheck"5Remove this unused import 'cucumber.api.java.Before'.(ù»Şn8 èú—Å-
+fsquid:UselessImportCheck
+"6Remove this unused import 'cucumber.api.java.en.When'.(Ù¿×ªüÿÿÿÿ8 èú—Å-
+asquid:UselessImportCheck	"6Remove this unused import 'cucumber.api.java.en.Then'.(ƒ¯Ÿ8 èú—Å-
+Nsquid:S1068"+Remove this unused "browser" private field.(ÆÆ·®øÿÿÿÿ8 èú—Å-
+Hsquid:S1444"*Make this "public static prop" field final(²×öü8ñ»á—Å-
+nsquid:UselessImportCheck"CRemove this unused import 'org.openqa.selenium.WebDriverException'.(œİ‰‡8 èú—Å-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.InputStream'.(¹»º8 èú—Å-
+_squid:UselessImportCheck"4Remove this unused import 'cucumber.api.java.After'.(İ³À¶8 èú—Å-
+xsquid:UselessImportCheck"MRemove this unused import 'com.test.qa.pageobjects.pages.OrangeHRMLoginPage'.(òæ†™8 èú—Å-
+|squid:UselessImportCheck"QRemove this unused import 'com.test.qa.pageobjects.pages.OrangeHRMDashboardPage'.(ÿ½É¡8 èú—Å-
+vsquid:UselessImportCheck"FRemove this unused import 'org.openqa.selenium.firefox.FirefoxDriver'.(Úª ÿÿÿÿÿ8 èú—Å-
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ñ½‡Á8 èú—Å-
+bsquid:UselessImportCheck"7Remove this unused import 'cucumber.api.java.en.Given'.(ÒŠÈÒ8 èú—Å-
+Dsquid:S1068"&Remove this unused "os" private field.(‘ßÂÏ8 èú—Å-
+nsquid:UselessImportCheck"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8 èú—Å-
+psquid:UselessImportCheck"@Remove this unused import 'org.openqa.selenium.TakesScreenshot'.(ç³Üÿÿÿÿÿ8 èú—Å-
+bsquid:UselessImportCheck"2Remove this unused import 'cucumber.api.Scenario'.(ÅÕÇ‘ùÿÿÿÿ8 èú—Å-
+…"squid:ClassVariableVisibilityCheck"PMake prop a static final constant or non-public and provide accessors if needed.(²×öü8ñ»á—Å-
+Nsquid:S1068"+Remove this unused "baseUrl" private field.(†³Úÿÿÿÿÿ8 èú—Å-
+;squid:S2386"Make this member "protected".(²×öü8ñ»á—Å-
+Ssquid:S1068"5Remove this unused "webDriverLocation" private field.(‡Ä¶ú8 èú—Å-
+Wsquid:UselessImportCheck"-Remove this unused import 'org.junit.Assert'.(­ŞL8 èú—Å-
+ksquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.OutputType'.(Ğ³—õıÿÿÿÿ8 èú—Å-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8 èú—Å-

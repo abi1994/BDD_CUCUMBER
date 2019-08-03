@@ -1,0 +1,23 @@
+2019-08-03 15:31:21.387 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : tomsmith
+2019-08-03 15:31:21.497 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : SuperSecretPassword!
+2019-08-03 15:31:22.344 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:31:22.346 [main] INFO  com.test.qa.pageobjects.pages.LoginSecurePage >> Checking if dashboard displayed
+2019-08-03 15:31:22.377 [main] INFO  com.test.qa.pageobjects.pages.LoginSecurePage >> Checking if dashboard displayed
+2019-08-03 15:31:23.147 [main] INFO  com.test.qa.pageobjects.pages.LoginSecurePage >>  Clicked logout button
+2019-08-03 15:31:23.149 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Checking if dashboard displayed
+2019-08-03 15:31:23.173 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Checking if dashboard displayed
+2019-08-03 15:31:35.920 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : 
+2019-08-03 15:31:35.980 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : 
+2019-08-03 15:31:36.791 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:31:50.591 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : John
+2019-08-03 15:31:50.679 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : John123
+2019-08-03 15:31:51.408 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:32:02.898 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : Siva
+2019-08-03 15:32:02.981 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : Siva456
+2019-08-03 15:32:03.891 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:32:13.471 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : tomsmith
+2019-08-03 15:32:13.561 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : errorPassword
+2019-08-03 15:32:14.447 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
+2019-08-03 15:32:23.326 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered username : errorUserName
+2019-08-03 15:32:23.447 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >> Entered password : SuperSecretPassword?
+2019-08-03 15:32:24.195 [main] INFO  com.test.qa.pageobjects.pages.LoginPage >>  Clicked login button
