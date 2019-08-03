@@ -80,37 +80,7 @@ public class SignIn {
             }
             driver.quit();
         }
-
-
-//    @Given("^I launch elementalSelenium application$")
-//    public void i_launch_elementalSelenium_application() {
-//        driver.get(baseUrl);
-//    }
-//
-//    @When("^I sign in with username \"([^\"]*)\" and password \"([^\"]*)\"in login page$")
-//    public void i_sign_in_with_username_and_password_in_login_page(String username, String password) {
-//        LoginPage loginPage = new LoginPage(driver);
-//        loginPage.login(username, password);
-//    }
-//
-//    @Then("^I I should see login secure page$")
-//    public void i_should_see_dashbord_page() {
-//        LoginSecurePage dashboardPage = new LoginSecurePage(driver);
-//        Assert.assertTrue(dashboardPage.isLoginSecurePageDisplayed());
-//    }
-//
-//    @When("^I get logged out$")
-//    public void i_get_logged_out(){
-//           LoginSecurePage LogoutPage =new LoginSecurePage(driver);
-//           LogoutPage.LogOut();
-//    }
-//    @Then("^I should see login page \"([^\"]*)\"$")
-//    public void i_should_get_error_message(String errMessage) {
-//        LoginSecurePage loginPage = new LoginSecurePage(driver);
-//        Assert.assertEquals("Error message does not match", errMessage, loginPage.);
-//    }
-
-
+   
     @Given("^I launch elementalSelenium application$")
     public void iLaunchElementalSeleniumApplication()  {
         driver.get(baseUrl);
